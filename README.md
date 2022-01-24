@@ -1,16 +1,16 @@
-# CT연구회 Microsoft Computer Science Curriculum Toolkit
+# CT연구회 Microsoft Computer Science Curriculum Toolkit 번역본 링크 관리 페이지
 
 We are updating links to Microsoft Computer Science Curriculum Toolkit PDF file.  
 마이크로소프트 컴퓨터과학 교육과정 도구키트(toolkit) PDF파일의 링크를 이 곳에서 유지보수하고자 합니다.  
 
 
-# DOMAIN: SOFTWARE DEVELOPMENT 영역: 소프트웨어 개발
+# 영역: 소프트웨어 개발  DOMAIN: SOFTWARE DEVELOPMENT 
 <p></p>
 
-## BIG IDEA: SOLVING COMPLEXITY  빅 아이디어: 복잡성 해결하기
+## 빅 아이디어: 복잡성 해결하기  BIG IDEA: SOLVING COMPLEXITY  
 
 
-### BIG QUESTION: LEVEL1. WHAT IS COMPUTER? 빅 퀘스천: 레벨1. 컴퓨터란 무엇인가?
+### 빅 퀘스천: 레벨1. 컴퓨터란 무엇인가? BIG QUESTION: LEVEL1. WHAT IS COMPUTER? 
 
 
 ##### 마이크로소프트 학습자료
