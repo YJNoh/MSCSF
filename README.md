@@ -8,19 +8,19 @@ We are updating links to Microsoft Computer Science Curriculum Toolkit PDF file.
 1. [영역: 소프트웨어 개발 DOMAIN: SOFTWARE DEVELOPMENT](#영역--소프트웨어-개발-domain--software-development)
 
 
-2. [영역: 로봇공학과 자동화 DOMAIN: ROBOTICS&AUTOMATION](#영역:-로봇공학과-자동화-domain--robotics&automation)  
+2. [영역: 로봇공학과 자동화 DOMAIN: ROBOTICS&AUTOMATION](#영역--로봇공학과-자동화-domain--robotics&automation)  
 
 
-3. [영역: 데이터와 인공지능 DOMAIN: DATA AND AI](영역:-데이터와-인공지능-domain--data-and-ai)    
+3. [영역: 데이터와 인공지능 DOMAIN: DATA AND AI](영역--데이터와-인공지능-domain--data-and-ai)    
 
 
-4. [영역: 플랫폼과 클라우드 DOMAIN: PLATFORMS AND CLOUD](#영역:-플랫폼과-클라우드-domain--platforms-and-cloud)  
+4. [영역: 플랫폼과 클라우드 DOMAIN: PLATFORMS AND CLOUD](#영역--플랫폼과-클라우드-domain--platforms-and-cloud)  
 
 
-5. [영역: 인간-컴퓨터 상호작용 DOMAIN: HUMAN-COMPUTER INTERACTION](#영역:-인간-컴퓨터-상호작용-domain--human-computer-interaction)  
+5. [영역: 인간-컴퓨터 상호작용 DOMAIN: HUMAN-COMPUTER INTERACTION](#영역--인간-컴퓨터-상호작용-domain--human-computer-interaction)  
 
 
-6. [영역: 사이버보안 DOMAIN: CYBERSICURITY](#영역:-사이버보안-domain--cybersicurity)  
+6. [영역: 사이버보안 DOMAIN: CYBERSICURITY](#영역--사이버보안-domain--cybersicurity)  
 
 
 
