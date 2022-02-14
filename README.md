@@ -1,4 +1,4 @@
-# CT연구회 Microsoft Computer Science Curriculum Toolkit 번역본 링크 관리 페이지
+# CT연구회 Microsoft Computer Science Curriculum Toolkit 번역본 링크 관리 페이지(수정중)
 
 We are updating links to Microsoft Computer Science Curriculum Toolkit PDF file.  
 마이크로소프트 컴퓨터과학 교육과정 도구키트(toolkit) PDF파일의 링크를 이 곳에서 유지보수하고자 합니다.
